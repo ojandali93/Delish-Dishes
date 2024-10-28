@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.delishdishes"
+    namespace "com.delish dishes"
     defaultConfig {
-        applicationId "com.delishdishes"
+        applicationId "com.delish dishes"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

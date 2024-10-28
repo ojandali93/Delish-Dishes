@@ -1,4 +1,4 @@
-package com.delishdishes
+package com.delish dishes
 
 import android.app.Application
 import com.facebook.react.PackageList
